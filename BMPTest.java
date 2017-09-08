@@ -1,4 +1,4 @@
-//Rohit Khadse
+//Rohit
 import java.io.*;
 import java.math.BigInteger;
 
